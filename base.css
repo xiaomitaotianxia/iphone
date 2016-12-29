@@ -1,0 +1,18 @@
+/*
+* @Author: sony
+* @Date:   2016-09-11 10:31:18
+* @Last Modified by:   sony
+* @Last Modified time: 2016-09-11 15:20:43
+*/
+body,div,ul,ol,dl,li,a,img,span,h1,h2,h3,h4,h5,h6,a{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.w{
+	width: 1241px;
+	margin: 0 auto;
+}

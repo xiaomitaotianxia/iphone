@@ -1,0 +1,193 @@
+/*
+* @Author: sony
+* @Date:   2016-09-11 10:31:59
+* @Last Modified by:   yxy
+* @Last Modified time: 2016-09-12 13:15:13
+*/
+.head{
+	height: 101px;
+	background:  url(img/index_topbg.jpg);
+}
+.logo{
+	float: left;
+}
+.logo a{
+     width: 184px;
+     height: 101px;
+     display: block;
+     background: url(img/logo.png) no-repeat left center;
+     text-indent: -2000px;
+     }
+.nav ul{
+	float: left;
+     margin-left: 200px;
+}
+.nav li{
+     height: 101px;
+	float: left;
+     line-height: 101px;
+     position: relative;
+} 
+.nav li a{
+     color:  white;
+     margin-left: 20px;
+     font-weight: 700;
+}
+.nav .new span{
+     width: 45px;
+     height: 19px;
+     display: block;
+     background: url(img/base_z_7b2c929.png) no-repeat 0 -71px;
+     position: absolute;
+     left: 71px;
+     top: 20px;
+}
+.nav .hot span{
+     width: 45px;
+     height: 19px;
+     display: block;
+     background: url(img/base_z_7b2c929.png) no-repeat 0 -92px;
+     position: absolute;
+     left: 67px;
+     top: 20px;
+}
+.line{
+     height: 36px;
+     background-color: #E6E7E9;
+     line-height: 36px;
+     color: #7A7A7A;
+     padding-left: 100px;
+}
+.content{
+     height: 563px;
+     border-bottom: 1px solid #E6E7E9;
+}
+.content .l-list{
+     width: 275px;
+     float: left;
+}
+.content .l-list li{
+     border-bottom: 1px solid #E6E7E9;
+     height: 50px;
+     font-size: 13px;
+     padding-top: 19px;
+     padding-left: 15px;
+}
+.content .l-list .gexing{
+     border: 0 none;
+}
+.content .r-list{
+     float: left;
+     width: 965px;
+}
+.content .r-list .top{
+     height: 413px;
+} 
+.content .bottom .l,.content .bottom .m,.content .bottom .r{
+     border-left: 1px solid #E6E7E9;
+     border-right: 1px solid #E6E7E9;
+}
+.content .r-list .bottom div{
+     float: left;
+}
+.peijian{
+     height: 973px;
+     margin-top: 30px;
+}
+.peijian .l-peijian{
+     margin-top: 20px;
+     width: 924px;
+     height: 933px;
+     float: left;
+}
+.peijian .l-peijian p{
+     font-size: 14px;
+     color: #4B4B4B;
+}
+.peijian .l-peijian span{
+     font-size: 14px;
+     color: #848484;
+}
+.peijian .l-peijian .one{
+     width: 255px;
+     height: 240px;
+     border: 1px solid #E6E7E9;
+     padding-top: 70px;
+     padding-left: 50px;
+     float: left;
+}
+.peijian .l-peijian .two{
+     text-align: center;
+     width: 305px;
+     height: 310px;
+     float: left;
+     border: 1px solid #E6E7E9;
+}
+.peijian .l-peijian .three{
+     text-align: center;
+     width: 305px;
+     height: 310px;
+     float: left;
+     border: 1px solid #E6E7E9;
+}
+.peijian .l-peijian .four{
+     text-align: center;
+     width: 305px;
+     height: 310px;
+     float: left;
+     border: 1px solid #E6E7E9;
+}
+.peijian .l-peijian .five{
+     text-align: center;
+     width: 305px;
+     height: 310px;
+     float: left;
+     border: 1px solid #E6E7E9;
+}
+.peijian .l-peijian .six{
+     text-align: center;
+     width: 305px;
+     height: 310px;
+     float: left;
+     border: 1px solid #E6E7E9;
+}
+.peijian .l-peijian .seven{
+     text-align: center;
+     width: 305px;
+     height: 310px;
+     float: left;
+     border: 1px solid #E6E7E9;
+}
+.peijian .l-peijian .eight{
+     text-align: center;
+     width: 305px;
+     height: 310px;
+     float: left;
+     border: 1px solid #E6E7E9;
+}
+.peijian .l-peijian .nine{
+     text-align: center;
+     width: 305px;
+     height: 310px;
+     float: left;
+     border: 1px solid #E6E7E9;
+}
+.peijian .r-peijian{
+     margin-top: 20px;
+     float: left;
+     border: 1px solid #E6E7E9;
+     border-left: 0 none;
+}
+.peijian .r-peijian li{
+
+     width: 315px;
+     height: 103px;
+     border-bottom: 1px solid red;
+}
+.peijian .r-peijian p{
+     font-size: 10px;
+}
+.peijian .r-peijian img,.peijian .r-peijian h2,.peijian .r-peijian p{
+     float: left;
+}
+
